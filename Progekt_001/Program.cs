@@ -39,83 +39,83 @@ else
 Console.WriteLine("нет");
 */
 
-/* Console.WriteLine("Введите номер дня недели");
-int num = Convert.ToInt32(Console.ReadLine());
+//  Console.WriteLine("Введите номер дня недели");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-if (num==1)
-{
-    Console.writeline("Понедельник");
-}
-if (num==2)
-{
-    Console.writeline("Вторник");
-}
-if (num==3)
-{
-    Console.writeline("Среда");
-}
-if (num==4)
-{
-    Console.writeline("Четверг");
-}
-if (num==5)
-{
-    Console.writeline("Пятница");
-}
-if (num==6)
-{
-    Console.writeline("Суббота");
-}
-if (num==7)
-{
-    Console.writeline("Воскресенье");
-}
-else
-{
-    Writeline("Ошибка. Попробуйте снова")
-}
-*/
+// if (num==1)
+// {
+//     Console.writeline("Понедельник");
+// }
+// if (num==2)
+// {
+//     Console.writeline("Вторник");
+// }
+// if (num==3)
+// {
+//     Console.writeline("Среда");
+// }
+// if (num==4)
+// {
+//     Console.writeline("Четверг");
+// }
+// if (num==5)
+// {
+//     Console.writeline("Пятница");
+// }
+// if (num==6)
+// {
+//     Console.writeline("Суббота");
+// }
+// if (num==7)
+// {
+//     Console.writeline("Воскресенье");
+// }
+// else
+// {
+//     Writeline("Ошибка. Попробуйте снова")
+// }
 
-/*
-Console.WriteLine("Введите номер дня недели:");
 
-int number = Convert.ToInt32(Console.ReadLine());
 
-switch (number)
-{
-  case 1:
-  Console.WriteLine("Понедельник");
-  break;
+// Console.WriteLine("Введите номер дня недели:");
 
-  case 2:
-  Console.WriteLine("Вторник");
-  break;
+// int number = Convert.ToInt32(Console.ReadLine());
 
-  case 3:
-  Console.WriteLine("Среда");
-  break;
+// switch (number)
+// {
+//   case 1:
+//   Console.WriteLine("Понедельник");
+//   break;
 
-  case 4:
-  Console.WriteLine("Четверг");
-  break;
+//   case 2:
+//   Console.WriteLine("Вторник");
+//   break;
 
-  case 5:
-  Console.WriteLine("Пятница");
-  break;
+//   case 3:
+//   Console.WriteLine("Среда");
+//   break;
 
-  case 6:
-  Console.WriteLine("Суббота");
-  break;
+//   case 4:
+//   Console.WriteLine("Четверг");
+//   break;
 
-  case 7:
-  Console.WriteLine("Воскресенье");
-  break;
+//   case 5:
+//   Console.WriteLine("Пятница");
+//   break;
 
-  default: 
-  Console.WriteLine("Введён не тот номер недели.");
-  break;
-}
-*/
+//   case 6:
+//   Console.WriteLine("Суббота");
+//   break;
+
+//   case 7:
+//   Console.WriteLine("Воскресенье");
+//   break;
+
+//   default: 
+//   Console.WriteLine("Введён не тот номер недели.");
+//   break;
+// }
+
 
 //Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает 
 //последнюю цифру этого числа.
