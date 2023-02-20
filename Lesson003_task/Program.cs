@@ -29,8 +29,6 @@ string CheckKoord2(int x)
     return res;
 }
 
-
-
 try
 {
     Console.WriteLine("Введите координату Х");
@@ -56,7 +54,7 @@ catch
 // 5 -> 1, 4, 9, 16, 25.
 // 2 -> 1,4
 
-Console.WriteLine("Введите координаты двух точек");
-int x =Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите координаты двух точек");
-int x =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите координаты двух точек");
+// int x =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите координаты двух точек");
+// int x =Convert.ToInt32(Console.ReadLine());
